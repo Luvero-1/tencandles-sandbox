@@ -1,0 +1,21 @@
+{
+  "title": "Ten candles",
+  "id": "ten-candles",
+  "authors": [
+    {
+      "name": "Luvero",
+      "discord": "Luvero#5745",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Luvero-1/tencandles-sandbox",
+  "version": "1.0.0",
+  "system": "sandbox",
+  "manifest": "https://raw.githubusercontent.com/Luvero-1/tencandles-sandbox/main/world.json",
+  "download": "https://codeload.github.com/Luvero-1/tencandles-sandbox/zip/main",
+  "background": ,
+  "coreVersion": "10.291",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.14.0(RC7)"
+}

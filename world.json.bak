@@ -1,0 +1,11 @@
+{
+  "title": "Ten candles",
+  "id": "ten-candles",
+  "system": "sandbox",
+  "coreVersion": "10.291",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "systemVersion": "0.14.0(RC7)"
+}
